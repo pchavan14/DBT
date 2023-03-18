@@ -1,4 +1,4 @@
-Welcome to your new dbt project!
+DBT project to Analyze airbnb's listings in Berlin region
 
 ### Using the starter project
 
