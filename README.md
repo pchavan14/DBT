@@ -7,11 +7,11 @@ Try running the following commands:
 - dbt test
 
 Re-run below commands when you restart terminal
-virtualenv venv
-. venv/bin/activate
-rehash
-pip install dbt-snowflake
-which dbt
+- virtualenv venv
+- . venv/bin/activate
+- rehash
+- pip install dbt-snowflake
+- which dbt
 
 
 ### Resources:
@@ -20,3 +20,7 @@ which dbt
 - Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
 - Find [dbt events](https://events.getdbt.com) near you
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+
+### Preset dashboard:
+
+- https://48a60d51.us1a.app.preset.io/superset/dashboard/p/V9DXWeRN6nb/
