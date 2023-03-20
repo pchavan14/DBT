@@ -6,6 +6,13 @@ Try running the following commands:
 - dbt run
 - dbt test
 
+Re-run below commands when you restart terminal
+virtualenv venv
+. venv/bin/activate
+rehash
+pip install dbt-snowflake
+which dbt
+
 
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
