@@ -7,12 +7,6 @@ Try running the following commands:
 - dbt test
 
 Re-run below commands when you restart terminal
-
-
-
-
-
-
 - virtualenv venv
 - . venv/bin/activate
 - rehash
@@ -30,4 +24,4 @@ Re-run below commands when you restart terminal
 ### Preset dashboard:
 - https://48a60d51.us1a.app.preset.io/superset/dashboard/p/V9DXWeRN6nb/
 
-![dbt](images/dbt.png)
+    ![dbt](images/dbt.png)
