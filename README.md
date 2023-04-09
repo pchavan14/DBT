@@ -1,5 +1,9 @@
 DBT project to Analyze airbnb's listings in Berlin region
 
+## **ER Model**
+
+![er model](images/input_schema.png)
+
 ### Using the starter project
 
 Try running the following commands:
